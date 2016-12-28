@@ -1,7 +1,7 @@
 # github-workflow assignment
 
 ## Instructions:
-***NOTE:***This assignment has a dual purpose. 1. To test the Git workflow procedures for completing assignments this semester and 2. To refresh your knowledge of basic Java principles. I have included a simple Java "HelloWorld" project for you to edit, commit, and push from your local computer. NOTE: If you plan to use Git through Android Studio rather than the command line, I highly recommend you download and use IntelliJ for this assignment. Android Studio is built off of IntelliJ and the procedures will be the same.
+***NOTE:***This assignment has a dual purpose. 1. To test the Git workflow procedures for completing assignments this semester and 2. To refresh your knowledge of basic Java principles. I have included a simple Java "HelloWorld" project for you to edit, commit, and push from your local computer. NOTE: If you plan to use Git through Android Studio rather than the command line, I highly recommend you download and use [IntelliJ](https://www.jetbrains.com/idea/) for this assignment. Android Studio is built off of IntelliJ and the procedures will be the same for your Android projects.
 
 ### TODO:
 1. Open IntelliJ and create a Java project named github-workflow-\<yourLastName\>.
@@ -16,7 +16,7 @@
  
  ***Note:*** Any issues you have with either the GitHub steps or Java questions should be asked publically in Piazza. If you have a question, chances are someone else does also. If you see someone has posted a question on Piazza and you know the answer, please chime in and answer. This might seem rough at the beginning, but I promise it will get easier.
 
-#.gitignore
+# .gitignore
 
 .idea/workspace.xml
 
