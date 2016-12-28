@@ -1,5 +1,7 @@
 # github-workflow assignment
 
+## DUE: 19 Jan 2017
+
 ## Instructions:
 ***NOTE:***This assignment has a dual purpose. 1. To test the Git workflow procedures for completing assignments this semester and 2. To refresh your knowledge of basic Java principles. I have included a simple Java "HelloWorld" project for you to edit, commit, and push from your local computer. NOTE: If you plan to use Git through Android Studio rather than the command line, I highly recommend you download and use [IntelliJ](https://www.jetbrains.com/idea/) for this assignment. Android Studio is built off of IntelliJ and the procedures will be the same for your Android projects.
 
