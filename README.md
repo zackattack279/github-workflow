@@ -1,6 +1,6 @@
 # github-workflow assignment
 
-Name: _______________________________________
+Name: _____________Zachary Roy__________________________
 
 ## DUE: 31 Aug 2017
 
